@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="About you" />
+    <item android:title="Friends" />
+    <item android:title="Setting" />
+    <item android:title="Edit profile" />
+    <item android:title="Privacy" />
+    <item
+        android:id="@+id/log"
+        android:title="Logout" />
+</menu>
