@@ -33,6 +33,7 @@ Button b9;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main3);
+        
         cameraIntent = new Intent(android.provider.MediaStore.ACTION_IMAGE_CAPTURE);
         i5=(ImageView)findViewById(R.id.imageView5);
         i9=(ImageView)findViewById(R.id.imageView9);
